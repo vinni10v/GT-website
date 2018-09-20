@@ -72,7 +72,9 @@ section.Research .container h3{
 
 
 
-
+section.People{
+  background-color: #dae8f1;
+}
 
 section.People h2{
   font-size: 50px;
@@ -86,7 +88,7 @@ section.People .profile-container h2{
   font-size: 20px;
   text-align: center;
   color: red;
-  padding-top: 5px;
+  padding-top: 10px;
 }
 
 section.People .profile-container h3{
@@ -94,6 +96,7 @@ section.People .profile-container h3{
   text-align: center;
   color: grey;
   font-family: Raleway;
+  padding-bottom: 10px
 }
 
 
@@ -218,8 +221,8 @@ img.center{
 }
 
 #mainNav .navbar-nav > li > a.active {
-  color: white !important;
-  background-color: transparent;
+  color: white;
+  background-color: black;
 }
 
 #mainNav .navbar-nav > li > a.active:hover {
@@ -233,7 +236,7 @@ img.center{
 
 #mainNav .navbar-nav > li > a:hover,
 #mainNav .navbar-nav > li > a:focus:hover {
-  color: #fdcc52;
+  color: white !important;
 }
 
 @media (min-width: 992px) {
