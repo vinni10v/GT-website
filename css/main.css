@@ -218,7 +218,7 @@ img.center{
 }
 
 #mainNav .navbar-nav > li > a.active {
-  color: black !important;
+  color: white !important;
   background-color: transparent;
 }
 
@@ -257,7 +257,7 @@ img.center{
   }
   #mainNav.navbar-shrink {
     border-color: rgba(34, 34, 34, 0.1);
-    background-color: white;
+    background-color: #2FABB0;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #222222;
@@ -267,7 +267,7 @@ img.center{
   }
   #mainNav.navbar-shrink .navbar-nav > li > a,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus {
-    color: #222222;
+    color: rgba(255, 255, 255, 0.7);
   }
   #mainNav.navbar-shrink .navbar-nav > li > a:hover,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus:hover {
