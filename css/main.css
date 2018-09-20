@@ -37,11 +37,25 @@ section.Research .container h3{
 	font-family:Raleway;
 }
 
-	section.Research .header-content1 h3{
+	section.Research .header-content1 {
 	padding-bottom: 30px;
 }
 
+.research-area{
+  text-align: center;
+}
 
+.research-area i{
+  color:black;
+  text-align: center;
+}
+
+.area-caption h5{
+  width:100%;
+  font-size: 15px;
+  text-align: center;
+  font-family: NillandBlack;
+}
 
 
 @font-face {
@@ -53,6 +67,68 @@ section.Research .container h3{
   font-family: Raleway;
   src: url(Fonts/Raleway-Regular.ttf);
 }
+
+
+
+
+
+
+
+section.People h2{
+  font-size: 50px;
+  text-align: center;
+  font-family: NillandBlack;
+  color: #2FABB0;
+}
+
+
+section.People .profile-container h2{
+  font-size: 20px;
+  text-align: center;
+  color: red;
+  padding-top: 5px;
+}
+
+section.People .profile-container h3{
+  font-size: 20px;
+  text-align: center;
+  color: grey;
+  font-family: Raleway;
+}
+
+
+
+
+img:hover {
+    box-shadow: 0 0 2px 5px rgba(0, 140, 186, 0.5);
+}
+
+img.center{
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height:150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
